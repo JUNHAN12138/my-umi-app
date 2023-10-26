@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "author": "liangmingle <2206821639@qq.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "umi": "^4.0.87"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.33",
+    "@types/react-dom": "^18.2.14",
+    "typescript": "^5.2.2"
+  }
+}
